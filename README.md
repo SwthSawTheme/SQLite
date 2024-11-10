@@ -1,5 +1,5 @@
 # SQLite 
-*Modelo parcialmente implantado, testes com query e SQLite!*
+*Modelo parcialmente implantado, testes com query no SQLite!*
 
 ## Modelo lógico
 ![Modelo lógico](./src/Modelo_logico.png)
